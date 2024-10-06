@@ -1,5 +1,4 @@
-<html>
-  <body>
+ <body>
     <h1>TSK Industrial Supply Sdn Bhd</h1>
     <div id="introduction">
       <h2>About Us</h2>
@@ -58,4 +57,3 @@
       </p>
     </div>
   </body>
-</html>
