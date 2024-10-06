@@ -50,7 +50,7 @@
     <div id="Contact Us">
       <h2>Contact Us</h2>
       <p>
-        <strong>Email:</strong> sktay163@gmail.com <br /><br />
+        <strong>Email:</strong> sktay163@gmail.com <br />
         <strong>LinkedIn:</strong>
         https://www.linkedin.com/company/tsk-industrial-supply-sdn-bhd
       </p>
