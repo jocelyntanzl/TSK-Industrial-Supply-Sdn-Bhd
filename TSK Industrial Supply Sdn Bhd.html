@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <body>
     <h1>TSK Industrial Supply Sdn Bhd</h1>
@@ -11,7 +10,7 @@
         <strong>TSK INDUSTRIAL SUPPLY SDN BHD</strong> was established in 2022.
         Ever since, the company has become a highly reputable player when it
         comes to the transformation of the industry in Malaysia. Our skilled
-        team is consists of corporate experts whose experience in the field of
+        team consists of corporate experts whose experience in the field of
         rotating equipment seals as well as other fields in various industry
         sectors has driven the exponential growth of the company to its existing
         levels. These experiences cover the field of mechanical seal selections,
