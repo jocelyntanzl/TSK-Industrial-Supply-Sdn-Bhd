@@ -35,7 +35,7 @@
       </p>
       <h2>Our Services</h2>
       <p>
-        We offers mechanical seal services to a wide variety of industries such
+        We offer mechanical seal services to a wide variety of industries such
         as palm oil refineries, chemical plants, pulp & paper mills and also
         food & beverages factories etc within the country. <br /><br />
         Some of the services we provide are as follow:
